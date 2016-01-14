@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Myporject\Solendar2\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59fb5cf654398f34a279c7f4334d838778361a15">
+        <dex dex="D:\Myporject\Solendar2\app\build\intermediates\pre-dexed\debug\classes_97efd5eeae343f285e0cd064e5fb3b89e559216a.jar" />
+    </item>
+
+</items>
